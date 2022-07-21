@@ -1,0 +1,4 @@
+.database.ini
+.env
+env/
+.vscode/
